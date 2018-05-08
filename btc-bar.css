@@ -1,0 +1,31 @@
+#mxn-price {
+  color: #f4b12c;
+}
+.currency-status {
+    text-align: center;
+}
+.currency-status li {
+    display: inline-block;
+    margin: 0 10px;
+}
+.currency-status li a {
+    font-weight: normal;
+    font-size: 14px;
+    padding: 0 15px;
+    display: inline-block;
+    color: #cacaca;
+    border-left: 1px solid #444;
+}
+.fa-caret-down {
+  color: #f00;
+}
+.fa-caret-up {
+  color: green;
+}
+@media screen and (max-width: 983px) {
+  .currency-status li a {
+    border-left: none;
+    display: block;
+    padding: 0;
+  }
+}
