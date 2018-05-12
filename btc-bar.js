@@ -1,8 +1,11 @@
+// Settings
 var coins = [
   {coin: "1", currency: "USD"},
-  {coin: "2", currency: "USD"}
+  {coin: "2", currency: "USD"},
+  {coin: "3", currency: "USD"},
+  {coin: "4", currency: "USD"}
 ];
-
+// Foreach Coin List them.
 for (var i = 0; i < coins.length; i++) {
   var c = coins[i].coin;
   var cur = coins[i].currency;
