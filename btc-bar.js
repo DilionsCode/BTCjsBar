@@ -1,7 +1,7 @@
 // Settings
 var coins = [
   {coin: "1", currency: "USD"},
-  {coin: "2", currency: "USD"},
+  {coin: "1", currency: "MXN"},
   {coin: "3", currency: "USD"},
   {coin: "4", currency: "USD"}
 ];

@@ -1,4 +1,6 @@
-# BTCjsBar
+# In Beta Mode
+
+### BTCjsBar
 
 Easily add a crypto currency ticker to any website.
 
