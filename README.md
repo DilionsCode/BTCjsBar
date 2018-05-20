@@ -26,6 +26,8 @@ var coins = [
 Change the coin value to the ID of the cypto that you want to list </br>
 and change the currency to the currency of your choice.
 
+everything is list in `ul` list.
+
 Contact me if you need help!
 
 dilionscode@gmail.com
