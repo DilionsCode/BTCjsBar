@@ -12,7 +12,7 @@ Easily add a crypto currency ticker to any website.
 
 Go to <a href="https://api.coinmarketcap.com/v2/listings/">CoinMarketCap Listings and find the currency ID</a>
 
-Edit the `btc-bar.js` file by add the currency and ID into the JSON.
+Edit the `btc-bar.js` file by adding the currency and ID of the crypto into the JSON.
 
 ```
 var coins = [
