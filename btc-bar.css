@@ -1,16 +1,12 @@
-#mxn-price {
-  color: #f4b12c;
-}
 .currency-status {
     text-align: center;
 }
-.currency-status li {
-    display: inline-block;
-    margin: 0 10px;
+ul {
+  list-style-type: none;
 }
 .currency-status li a {
-    font-weight: normal;
     font-size: 14px;
+    font-weight: normal;
     padding: 0 15px;
     display: inline-block;
     color: #cacaca;

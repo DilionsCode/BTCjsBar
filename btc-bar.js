@@ -3,7 +3,8 @@ var coins = [
   {coin: "1", currency: "USD"},
   {coin: "1", currency: "MXN"},
   {coin: "3", currency: "USD"},
-  {coin: "4", currency: "USD"}
+  {coin: "4", currency: "USD"},
+  {coin: "5", currency: "USD"}
 ];
 // Foreach Coin List them.
 for (var i = 0; i < coins.length; i++) {
