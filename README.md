@@ -1,6 +1,6 @@
-# In Beta Mode
-
 ### BTCjsBar
+
+## [Check Out The Demo](https://dilionscode.github.io/BTCjsBar/)
 
 Easily add a crypto currency ticker to any website.
 
